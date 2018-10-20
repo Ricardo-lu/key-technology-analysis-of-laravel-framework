@@ -1,4 +1,5 @@
-本文档是《Laravel 框架关键技术解析》的文档电子版，本文作为第一更新地址，同步更新于 GitHub，排版遵守 [中文文案排版指北][1] 在作为盗版的同时呼吁大家 *支持正版*
+# Laravel 框架关键技术解析
+本文档是《Laravel 框架关键技术解析》的文档电子版，文档发布帖：[Laravel 框架关键技术解析][1]，排版遵守 [中文文案排版指北][2] 在作为盗版的同时呼吁大家 *支持正版*
 
 原书以 `Laravel 5.1` 为基础介绍 Laravel 构建的原理，从源码介绍 Laravel 功能的基本实现。通过本书的学习可以完成基于该框架的定制化应用程序开发。适合需要深度了解 Laravel 框架的读者。
 
@@ -74,6 +75,7 @@
     - 15.3 控制器设计与Web页面设计
 
 
-  [1]: https://github.com/sparanoid/chinese-copywriting-guidelines/blob/master/README.zh-CN.md
-  [2]: http:////www.misakas.com/default/common-php-syntax-in-the-Laravel-framework.html
-  [3]: http:////www.misakas.com/default/common-php-syntax-in-the-Laravel-framework.html
+  [1]: http://www.misakas.com/default/key-technology-analysis-of-laravel-framework.html
+  [2]: https://github.com/sparanoid/chinese-copywriting-guidelines/blob/master/README.zh-CN.md
+  [3]: http://www.misakas.com/default/common-php-syntax-in-the-Laravel-framework.html
+  [4]: http://www.misakas.com/default/common-php-syntax-in-the-Laravel-framework.html
